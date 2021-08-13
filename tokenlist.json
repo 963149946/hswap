@@ -1,5 +1,5 @@
 {
-  "name": "MDEX token List",
+  "name": "MDEXcc token List",
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 1,
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
     {
       "name": "Wrapped Ether",
       "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
